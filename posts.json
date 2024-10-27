@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Hustle Culture",
+    "content": "The last few years I have been at the intersection of tech, content, hustle culture, startups, creator economy and the move towards more indepent work. A thread about the current state and the road ahead. 🧵",
+    "author": "John Doe",
+    "date": "2022-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Delhi to Bangalore Road Trip",
+    "content": "Arnav Gupta 😷 💉🟢 💉🟢 (@championswimmer) So I recently moved from #Delhi to #Bangalore and the easiest and fastest way I could move my work desk setup (monitors, PC, gaming chair) and my car was to stuff all that into...",
+    "author": "Jane Doe",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 3,
+    "title": "Nativescript-Vue: Native Mobile Apps in Javascript without the Hard Parts™",
+    "content": "A promising alternative to React Native Why Vue ? Why Nativescript ? Why Nativescript-Vue? I am a fan of Vue. It is the easiest “framework” to grasp for people who just have bare minimum knowledge of vanilla HTML, CSS and...",
+    "author": "John Doe",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 4,
+    "title": "Very Strict Sequelize: Into the land of Typescript Overkill",
+    "content": "Disclaimer: If you believe that Typescript is a conspiracy by Microsoft to turn Javascript into C# and you believe in the religion of monkey-patching objects, then please do not proceed further. This article will burn your soul if you read...",
+    "author": "Jane Doe",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 5,
+    "title": "Post 6",
+    "content": "This is the content of post 5.",
+    "author": "Jennie",
+    "date": "2024-10-20"
+  }
+]
